@@ -34,6 +34,90 @@ body{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     width: 130px;
 }
+.totoro{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/totoro-capa.jpg");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.ponyo{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/ponyo-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.ocean{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/ocean-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.spirited{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/spirited-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.cat{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/cat-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.poppy{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/poppy-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.whisper{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/whisper-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.marnie{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/marnie-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
 .footer{
     background-color: aqua;
     
