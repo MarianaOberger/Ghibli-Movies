@@ -118,6 +118,147 @@ body{
     background-image: url("../images/marnie-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
+.mononoke{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/mononoke-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.wind{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/wind-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.arrietty{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/arrietty-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.nausicaa{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/nausicaa-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.castle{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/castle-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.kiki{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/kiki-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.grave{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/grave-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.howls{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/howls-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.only{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/only-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.porco{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/porco-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.yamadas{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/yamadas-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.tales{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/tales-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.pom{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/pom-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.heron{
+    padding: 10%;
+    text-align: center;
+    block-size: 160px;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    background-image: url("../images/heron-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
 .footer{
     background-color: aqua;
     
