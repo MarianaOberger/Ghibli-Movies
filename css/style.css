@@ -1,29 +1,38 @@
-.logoimg{
-    text-align: center;
-    padding: 10%;
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
 
+}
+.movietitle{
+    color: rgb(29, 21, 0);
+    font-family: "Suez One", serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 80px;
+    margin-top: 100px;
 }
 body{
     background-color: rgb(248, 255, 225);  
 }
 .movies{
     display: grid;
-    grid-template-columns:  repeat(6, 250px);
-    gap: 1.5rem;
+    grid-template-columns:  repeat(8, 170px);
+    gap: 1rem;
     align-items: center;
-    margin-left: 8%;
-    margin-bottom: 5%;
+    margin-left: 12%;
+    margin-bottom: 3%;
 
-    
 }
 .item{
     padding: 10%;
     text-align: center;
     background-color: rgb(120, 122, 0);
-    block-size: 150px;
+    block-size: 160px;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 200px;
+    width: 130px;
 }
 .footer{
     background-color: aqua;
