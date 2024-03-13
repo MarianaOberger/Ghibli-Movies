@@ -13,57 +13,56 @@
     font-style: normal;
     font-size: 80px;
     margin-top: 100px;
+    padding:50px;
+    padding-bottom: 30px;
 }
 body{
     background-color: rgb(248, 255, 225);  
 }
 .movies{
     display: grid;
-    grid-template-columns:  repeat(8, 170px);
+    grid-template-columns:  repeat(8, 180px);
     gap: 1rem;
     align-items: center;
-    margin-left: 12%;
-    margin-bottom: 2.7%;
+    margin-left: 450px;
+    padding-bottom: 80px;
+    padding-top: 10px;
 
 }
-.item{
-    padding: 10%;
-    text-align: center;
-    background-color: rgb(120, 122, 0);
-    block-size: 160px;
-    color: beige;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
-}
+
 .totoro{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/totoro-capa.jpg");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
+    background-size: cover;
 }
 .ponyo{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/ponyo-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
+
 }
 .ocean{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/ocean-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
@@ -71,58 +70,59 @@ body{
 .spirited{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/spirited-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
 }
-
 .cat{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/cat-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
 }
-
 .poppy{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/poppy-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
 }
-
 .whisper{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/whisper-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
 }
-
 .marnie{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/marnie-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
@@ -130,10 +130,11 @@ body{
 .mononoke{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/mononoke-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
@@ -141,10 +142,11 @@ body{
 .wind{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/wind-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
@@ -152,22 +154,23 @@ body{
 .arrietty{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/arrietty-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
 }
-
 .nausicaa{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/nausicaa-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
@@ -175,10 +178,11 @@ body{
 .castle{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/castle-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
@@ -186,10 +190,11 @@ body{
 .kiki{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/kiki-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
@@ -197,10 +202,11 @@ body{
 .grave{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/grave-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
@@ -208,10 +214,11 @@ body{
 .howls{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/howls-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
@@ -219,10 +226,11 @@ body{
 .only{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/only-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
@@ -230,10 +238,11 @@ body{
 .porco{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/porco-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
@@ -241,10 +250,11 @@ body{
 .yamadas{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/yamadas-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
@@ -252,10 +262,11 @@ body{
 .tales{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/tales-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
@@ -263,10 +274,11 @@ body{
 .pom{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/pom-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
@@ -274,10 +286,11 @@ body{
 .heron{
     padding: 10%;
     text-align: center;
-    block-size: 160px;
+    block-size: 195px;
+    background-size: cover;
     color: beige;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 130px;
+    width: 145px;
     background-image: url("../images/heron-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
@@ -288,16 +301,18 @@ body{
     margin-bottom: -50px;
     margin-left: -10px;
     margin-right: -8px;
+    height: 41px;
     
 }
-
+totoro{
 .body{
     background-color: grey;
     width: 150px;
     height: 185px;
-    position: relative;
+    position: absolute;
     display: flex;
     margin-left: 50px;
+    margin-top:-185px ;
     border-radius: 50% 50% 45% 45%;
 
 }
@@ -529,4 +544,13 @@ eye1{
     border-left:15px solid transparent;
     border-right:15px solid transparent;
     border-bottom:15px solid rgb(238, 238, 238);
+}
+.marca4{
+    position: absolute;
+    display: flex;
+    margin-left: 155px;
+    margin-top: -140px;
+    border-left:15px solid transparent;
+    border-right:15px solid transparent;
+    border-bottom:15px solid grey;
 }
