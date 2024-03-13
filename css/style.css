@@ -305,7 +305,7 @@ body{
     
 }
 totoro{
-.body{
+.bodyto{
     background-color: grey;
     width: 150px;
     height: 185px;
@@ -553,4 +553,5 @@ eye1{
     border-left:15px solid transparent;
     border-right:15px solid transparent;
     border-bottom:15px solid grey;
+}
 }
