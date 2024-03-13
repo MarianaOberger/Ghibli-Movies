@@ -24,7 +24,7 @@ body{
     grid-template-columns:  repeat(8, 180px);
     gap: 1rem;
     align-items: center;
-    margin-left: 450px;
+    margin-left: 400px;
     padding-bottom: 80px;
     padding-top: 10px;
 
@@ -299,17 +299,19 @@ body{
     background-image: url("../images/grama-principal.png");
     background-repeat: repeat;
     background-size: contain;
-    margin-bottom: -50px;
+    margin-bottom: 0px;
     margin-left: -10px;
     margin-right: -8px;
-    margin-top: -49px;
-    height: 90px;
+    margin-top: -45px;
+    height: 95px;
     
 }
 .totoro-pag{
     position: absolute;
     display: flex;
-    margin-top: -330px;
+    margin-top: -255px;
     margin-left: 1850px;
-    height: 400px;
+    height: 250px;
+    padding: 0px;
 }
+
