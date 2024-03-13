@@ -554,4 +554,130 @@ eye1{
     border-right:15px solid transparent;
     border-bottom:15px solid grey;
 }
+.sombra4{
+    position: absolute;
+    display: flex;
+    margin-left: 155px;
+    margin-top: -132px;
+    border-left:15px solid transparent;
+    border-right:15px solid transparent;
+    border-bottom:15px solid rgb(238, 238, 238);
+}
+.marca5{
+    position: absolute;
+    display: flex;
+    margin-left: 125px;
+    margin-top: -140px;
+    border-left:15px solid transparent;
+    border-right:15px solid transparent;
+    border-bottom:15px solid grey;
+}
+.sombra5{
+    position: absolute;
+    display: flex;
+    margin-left: 125px;
+    margin-top: -132px;
+    border-left:15px solid transparent;
+    border-right:15px solid transparent;
+    border-bottom:15px solid rgb(238, 238, 238);
+}
+.marca6{
+    position: absolute;
+    display: flex;
+    margin-left: 95px;
+    margin-top: -140px;
+    border-left:15px solid transparent;
+    border-right:15px solid transparent;
+    border-bottom:15px solid grey;
+}
+.sombra6{
+    position: absolute;
+    display: flex;
+    margin-left: 95px;
+    margin-top: -132px;
+    border-left:15px solid transparent;
+    border-right:15px solid transparent;
+    border-bottom:15px solid rgb(238, 238, 238);
+}
+.marca7{
+    position: absolute;
+    display: flex;
+    margin-left: 65px;
+    margin-top: -140px;
+    border-left:15px solid transparent;
+    border-right:15px solid transparent;
+    border-bottom:15px solid grey;
+}
+.sombra7{
+    position: absolute;
+    display: flex;
+    margin-left: 65px;
+    margin-top: -132px;
+    border-left:15px solid transparent;
+    border-right:15px solid transparent;
+    border-bottom:15px solid rgb(238, 238, 238);
+}
+.bigode1{
+    position: absolute;
+    display: flex;
+    margin-left: 150px;
+    margin-top: -208px;
+    background-color: black;
+    height: 1px;
+    width: 35px;
+    transform: rotate(-20deg);
+
+}
+.bigode2{
+    position: absolute;
+    display: flex;
+    margin-left: 65px;
+    margin-top: -208px;
+    background-color: black;
+    height: 1px;
+    width: 35px;
+    transform: rotate(20deg);
+
+}
+.bigode3{
+    position: absolute;
+    display: flex;
+    margin-left: 150px;
+    margin-top: -200px;
+    background-color: black;
+    height: 1px;
+    width: 35px;
+    transform: rotate(-5deg);
+}
+.bigode4{
+    position: absolute;
+    display: flex;
+    margin-left: 65px;
+    margin-top: -200px;
+    background-color: black;
+    height: 1px;
+    width: 35px;
+    transform: rotate(5deg);
+}
+.bigode5{
+    position: absolute;
+    display: flex;
+    margin-left: 150px;
+    margin-top: -192px;
+    background-color: black;
+    height: 1px;
+    width: 35px;
+    transform: rotate(15deg);
+}
+.bigode6{
+    position: absolute;
+    display: flex;
+    margin-left: 65px;
+    margin-top: -192px;
+    background-color: black;
+    height: 1px;
+    width: 35px;
+    transform: rotate(-15deg);
+}
+
 }
