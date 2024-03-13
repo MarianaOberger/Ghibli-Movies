@@ -3,6 +3,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: row;
+    margin-top: -20px;
 
 }
 .movietitle{
@@ -22,7 +23,7 @@ body{
     gap: 1rem;
     align-items: center;
     margin-left: 12%;
-    margin-bottom: 3%;
+    margin-bottom: 2.7%;
 
 }
 .item{
@@ -43,6 +44,7 @@ body{
     width: 130px;
     background-image: url("../images/totoro-capa.jpg");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 .ponyo{
     padding: 10%;
@@ -53,6 +55,7 @@ body{
     width: 130px;
     background-image: url("../images/ponyo-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 .ocean{
     padding: 10%;
@@ -63,6 +66,7 @@ body{
     width: 130px;
     background-image: url("../images/ocean-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 .spirited{
     padding: 10%;
@@ -73,6 +77,7 @@ body{
     width: 130px;
     background-image: url("../images/spirited-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 
 .cat{
@@ -84,6 +89,7 @@ body{
     width: 130px;
     background-image: url("../images/cat-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 
 .poppy{
@@ -95,6 +101,7 @@ body{
     width: 130px;
     background-image: url("../images/poppy-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 
 .whisper{
@@ -106,6 +113,7 @@ body{
     width: 130px;
     background-image: url("../images/whisper-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 
 .marnie{
@@ -117,6 +125,7 @@ body{
     width: 130px;
     background-image: url("../images/marnie-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 .mononoke{
     padding: 10%;
@@ -127,6 +136,7 @@ body{
     width: 130px;
     background-image: url("../images/mononoke-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 .wind{
     padding: 10%;
@@ -137,6 +147,7 @@ body{
     width: 130px;
     background-image: url("../images/wind-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 .arrietty{
     padding: 10%;
@@ -147,6 +158,7 @@ body{
     width: 130px;
     background-image: url("../images/arrietty-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 
 .nausicaa{
@@ -158,6 +170,7 @@ body{
     width: 130px;
     background-image: url("../images/nausicaa-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 .castle{
     padding: 10%;
@@ -168,6 +181,7 @@ body{
     width: 130px;
     background-image: url("../images/castle-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 .kiki{
     padding: 10%;
@@ -178,6 +192,7 @@ body{
     width: 130px;
     background-image: url("../images/kiki-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 .grave{
     padding: 10%;
@@ -188,6 +203,7 @@ body{
     width: 130px;
     background-image: url("../images/grave-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 .howls{
     padding: 10%;
@@ -198,6 +214,7 @@ body{
     width: 130px;
     background-image: url("../images/howls-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 .only{
     padding: 10%;
@@ -208,6 +225,7 @@ body{
     width: 130px;
     background-image: url("../images/only-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 .porco{
     padding: 10%;
@@ -218,6 +236,7 @@ body{
     width: 130px;
     background-image: url("../images/porco-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 .yamadas{
     padding: 10%;
@@ -228,6 +247,7 @@ body{
     width: 130px;
     background-image: url("../images/yamadas-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 .tales{
     padding: 10%;
@@ -238,6 +258,7 @@ body{
     width: 130px;
     background-image: url("../images/tales-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 .pom{
     padding: 10%;
@@ -248,6 +269,7 @@ body{
     width: 130px;
     background-image: url("../images/pom-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 .heron{
     padding: 10%;
@@ -258,8 +280,253 @@ body{
     width: 130px;
     background-image: url("../images/heron-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
 }
 .footer{
-    background-color: aqua;
+    background-color: rgb(44, 85, 21);
+    background-size: cover;
+    margin-bottom: -50px;
+    margin-left: -10px;
+    margin-right: -8px;
     
+}
+
+.body{
+    background-color: grey;
+    width: 150px;
+    height: 185px;
+    position: relative;
+    display: flex;
+    margin-left: 50px;
+    border-radius: 50% 50% 45% 45%;
+
+}
+.totoro-head{
+    background-color: transparent;
+    width: 58px;
+    height: 50px;
+    position: absolute;
+    display: flex;
+    margin-left: 77px;
+    margin-top: -280px;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 30px solid grey;
+}
+.left-arm{
+    background-color: grey;
+    width: 160px;
+    height: 190px;
+    position: absolute;
+    display: flex;
+    margin-left: 30px;
+    margin-top: -220px;
+    border-radius: 75% 50%;
+    transform: rotate(9deg);
+}
+.right-arm{
+    background-color: grey;
+    width: 160px;
+    height: 190px;
+    position: absolute;
+    display: flex;
+    margin-left: 60px;
+    margin-top: -220px;
+    border-radius: 75% 50%;
+    transform: rotate(-45deg);
+}
+.right-ear{
+    background-color: grey;
+    width: 18px;
+    height: 60px;
+    position: absolute;
+    display: flex;
+    margin-left: 91px;
+    margin-top: -270px;
+    border-radius: 60%;
+    transform: rotate(-4deg);
+}
+.left-ear{
+    background-color: grey;
+    width: 18px;
+    height: 60px;
+    position: absolute;
+    display: flex;
+    margin-left: 143px;
+    margin-top: -270px;
+    border-radius: 60%;
+    transform: rotate(4deg);
+}
+.belly{
+    background-color: rgb(238, 238, 238);
+    width: 150px;
+    height: 160px;
+    position: absolute;
+    display: flex;
+    margin-left: 49px;
+    margin-top: -175px;
+    border-radius: 50% 50% 45% 45%;
+}
+eye1{
+    background-color: white;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    display: flex;
+    margin-left: 95px;
+    margin-top: -220px;
+    border-radius: 50%;
+}
+.eye2{
+    background-color: white;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    display: flex;
+    margin-left: 137px;
+    margin-top: -220px;
+    border-radius: 50%;
+}
+.eyeball1{
+    background-color: black;
+    width: 7px;
+    height: 7px;
+    position: absolute;
+    display: flex;
+    margin-left: 99px;
+    margin-top: -215px;
+    border-radius: 50%;
+}
+.eyeball2{
+    background-color: black;
+    width: 7px;
+    height: 7px;
+    position: absolute;
+    display: flex;
+    margin-left: 141.5px;
+    margin-top: -215px;
+    border-radius: 50%;
+}
+.nose{
+    position: absolute;
+    display: flex;
+    margin-left: 118.5px;
+    margin-top: -210px;
+    border-left:7px solid transparent;
+    border-right:7px solid transparent;
+    border-top:5px solid black;
+}
+.left-hand{
+    background-color: black;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    display: flex;
+    margin-left: 38px;
+    margin-top: -58px;
+    border-radius: 50%;
+}
+.left-hand1{
+    background-color: black;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    display: flex;
+    margin-left: 45px;
+    margin-top: -55px;
+    border-radius: 50%;
+}
+.right-hand{
+    background-color: black;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    display: flex;
+    margin-left: 197px;
+    margin-top: -58px;
+    border-radius: 50%;
+}
+.right-hand1{
+    background-color: black;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    display: flex;
+    margin-left: 190px;
+    margin-top: -55px;
+    border-radius: 50%;
+}
+.foot1{
+    background-color: black;
+    width: 35px;
+    height: 12px;
+    position: absolute;
+    display: flex;
+    margin-left: 135px;
+    margin-top: -10px;
+    border-radius: 42%;
+}
+.foot2{
+    background-color: black;
+    width: 35px;
+    height: 12px;
+    position: absolute;
+    display: flex;
+    margin-left: 80px;
+    margin-top: -10px;
+    border-radius: 42%;
+}
+.marca1{
+    position: absolute;
+    display: flex;
+    margin-left: 110px;
+    margin-top: -165px;
+    border-left:15px solid transparent;
+    border-right:15px solid transparent;
+    border-bottom:15px solid grey;
+}
+.sombra1{
+    position: absolute;
+    display: flex;
+    margin-left: 110px;
+    margin-top: -157px;
+    border-left:15px solid transparent;
+    border-right:15px solid transparent;
+    border-bottom:15px solid rgb(238, 238, 238);
+}
+.marca2{
+    position: absolute;
+    display: flex;
+    margin-left: 80px;
+    margin-top: -160px;
+    border-left:15px solid transparent;
+    border-right:15px solid transparent;
+    border-bottom:15px solid grey;
+}
+.sombra2{
+    position: absolute;
+    display: flex;
+    margin-left: 80px;
+    margin-top: -152px;
+    border-left:15px solid transparent;
+    border-right:15px solid transparent;
+    border-bottom:15px solid rgb(238, 238, 238);
+}
+.marca3{
+    position: absolute;
+    display: flex;
+    margin-left: 140px;
+    margin-top: -160px;
+    border-left:15px solid transparent;
+    border-right:15px solid transparent;
+    border-bottom:15px solid grey;
+}
+.sombra3{
+    position: absolute;
+    display: flex;
+    margin-left: 140px;
+    margin-top: -152px;
+    border-left:15px solid transparent;
+    border-right:15px solid transparent;
+    border-bottom:15px solid rgb(238, 238, 238);
 }
