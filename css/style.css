@@ -12,13 +12,14 @@
     font-family: "Roboto Condensed", sans-serif;
     font-weight: 450;
     font-style: normal;
-    font-size: 90px;
+    font-size: 70px;
     margin-top: 90px;
 
 }
 body{
     background-color: rgb(248, 255, 225);
     overflow: hidden;
+    font-family: "Roboto Condensed", sans-serif; ;
 }
 .movies{
     display: grid;
@@ -30,157 +31,171 @@ body{
     padding-top: 10px;
 
 }
-.totoro:hover{
-    block-size: 155px;
-    width: 115px;
-    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
-    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
-    
+a{
+   display: block;
+   block-size: 100%;
+   color: transparent;
 }
-.ponyo:hover{
-    block-size: 155px;
-    width: 115px;
-    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
-    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
-}
-.ocean:hover{
-    block-size: 155px;
-    width: 115px;
-    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
-    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
-}
-.spirited:hover{
-    block-size: 155px;
-    width: 115px;
-    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
-    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
-}
-.cat:hover{
-    block-size: 155px;
-    width: 115px;
-    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
-    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
-}
-.poppy:hover{
-    block-size: 155px;
-    width: 115px;
-    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
-    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
-}
-.whisper:hover{
-    block-size: 155px;
-    width: 115px;
-    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
-    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
-}
-.marnie:hover{
-    block-size: 155px;
-    width: 115px;
-    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
-    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
-}
-.mononoke:hover{
-    block-size: 155px;
-    width: 115px;
-    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
-    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
-}
-.wind:hover{
-    block-size: 155px;
-    width: 115px;
-    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
-    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
-}
-.arrietty:hover{
-    block-size: 155px;
-    width: 115px;
-    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
-    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
-}
+
 .nausicaa:hover{
-    block-size: 155px;
-    width: 115px;
+    block-size: 209px;
+    width: 155px;
     box-shadow: rgb(248, 253, 231) 0px 5px 15px;
     transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 .castle:hover{
-    block-size: 155px;
-    width: 115px;
+    block-size: 209px;
+    width: 155px;
     box-shadow: rgb(248, 253, 231) 0px 5px 15px;
     transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
-.kiki:hover{
-    block-size: 155px;
-    width: 115px;
+.totoro:hover{
+    block-size: 209px;
+    width: 155px;
     box-shadow: rgb(248, 253, 231) 0px 5px 15px;
     transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 .grave:hover{
-    block-size: 155px;
-    width: 115px;
+    block-size: 209px;
+    width: 155px;
     box-shadow: rgb(248, 253, 231) 0px 5px 15px;
     transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
-.howls:hover{
-    block-size: 155px;
-    width: 115px;
+.kiki:hover{
+    block-size: 209px;
+    width: 155px;
     box-shadow: rgb(248, 253, 231) 0px 5px 15px;
     transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 .only:hover{
-    block-size: 155px;
-    width: 115px;
+    block-size: 209px;
+    width: 155px;
     box-shadow: rgb(248, 253, 231) 0px 5px 15px;
     transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 .porco:hover{
-    block-size: 155px;
-    width: 115px;
+    block-size: 209px;
+    width: 155px;
+    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
+    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}.ocean:hover{
+    block-size: 209px;
+    width: 155px;
+    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
+    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}.pom:hover{
+    block-size: 209px;
+    width: 155px;
+    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
+    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.whisper:hover{
+    block-size: 209px;
+    width: 155px;
+    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
+    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.mononoke:hover{
+    block-size: 209px;
+    width: 155px;
     box-shadow: rgb(248, 253, 231) 0px 5px 15px;
     transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 .yamadas:hover{
-    block-size: 155px;
-    width: 115px;
+    block-size: 209px;
+    width: 155px;
+    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
+    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.spirited:hover{
+    block-size: 209px;
+    width: 155px;
+    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
+    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.cat:hover{
+    block-size: 209px;
+    width: 155px;
+    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
+    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.howls:hover{
+    block-size: 209px;
+    width: 155px;
     box-shadow: rgb(248, 253, 231) 0px 5px 15px;
     transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 .tales:hover{
-    block-size: 155px;
-    width: 115px;
+    block-size: 209px;
+    width: 155px;
     box-shadow: rgb(248, 253, 231) 0px 5px 15px;
     transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
-.pom:hover{
-    block-size: 155px;
-    width: 115px;
+.ponyo:hover{
+    block-size: 209px;
+    width: 155px;
+    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
+    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.arrietty:hover{
+    block-size: 209px;
+    width: 155px;
+    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
+    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.poppy:hover{
+    block-size: 209px;
+    width: 155px;
+    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
+    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.wind:hover{
+    block-size: 209px;
+    width: 155px;
+    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
+    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.kaguya:hover{
+    block-size: 209px;
+    width: 155px;
+    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
+    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.marnie:hover{
+    block-size: 209px;
+    width: 155px;
+    box-shadow: rgb(248, 253, 231) 0px 5px 15px;
+    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.witch:hover{
+    block-size: 209px;
+    width: 155px;
     box-shadow: rgb(248, 253, 231) 0px 5px 15px;
     transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 .heron:hover{
-    block-size: 155px;
-    width: 115px;
+    block-size: 209px;
+    width: 155px;
     box-shadow: rgb(248, 253, 231) 0px 5px 15px;
     transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 .totoro{
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-image: url("../images/totoro-capa.jpg");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
-    background-size: cover;
     transition: all 0.2s;
-    
 }
 .ponyo{
-    padding: 10%;
-    text-align: center;
     background-size: cover;
-    block-size: 165px;
-    width: 120px;
+    padding: 0%;
+    text-align: center;
+    block-size: 216px;
+    width: 160px;
     background-image: url("../images/ponyo-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
@@ -189,32 +204,33 @@ body{
 }
 .ocean{
     transition: all 0.2s;
-    padding: 10%;
-    text-align: center;
-    block-size: 165px;
-    width: 120px;
     background-size: cover;
+    padding: 0%;
+    text-align: center;
+    block-size: 216px;
+    width: 160px;
     background-image: url("../images/ocean-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
 }
 .spirited{
     transition: all 0.2s;
-    padding: 10%;
-    text-align: center;
-    block-size: 165px;
-    width: 120px;
     background-size: cover;
+    padding: 0%;
+    text-align: center;
+    block-size: 216px;
+    width: 160px;
     background-image: url("../images/spirited-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
 }
 .cat{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
     background-image: url("../images/cat-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -222,10 +238,11 @@ body{
 }
 .poppy{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
     background-image: url("../images/poppy-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -233,10 +250,11 @@ body{
 }
 .whisper{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
     background-image: url("../images/whisper-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -244,10 +262,11 @@ body{
 }
 .marnie{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
     background-image: url("../images/marnie-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -255,10 +274,11 @@ body{
 }
 .mononoke{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
     background-image: url("../images/mononoke-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -266,10 +286,11 @@ body{
 }
 .wind{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
     background-image: url("../images/wind-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -277,10 +298,11 @@ body{
 }
 .arrietty{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
     background-image: url("../images/arrietty-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -288,10 +310,11 @@ body{
 }
 .nausicaa{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
     background-image: url("../images/nausicaa-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -299,10 +322,11 @@ body{
 }
 .castle{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
     background-image: url("../images/castle-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -310,10 +334,11 @@ body{
 }
 .kiki{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
     background-image: url("../images/kiki-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -321,10 +346,11 @@ body{
 }
 .grave{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
 
     background-image: url("../images/grave-capa.png");
@@ -333,10 +359,11 @@ body{
 }
 .howls{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
     background-image: url("../images/howls-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -344,10 +371,11 @@ body{
 }
 .only{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
     background-image: url("../images/only-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -355,10 +383,11 @@ body{
 }
 .porco{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
     background-image: url("../images/porco-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -366,10 +395,11 @@ body{
 }
 .yamadas{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
     background-image: url("../images/yamadas-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -377,10 +407,11 @@ body{
 }
 .tales{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
     background-image: url("../images/tales-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -388,10 +419,11 @@ body{
 }
 .pom{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
     background-image: url("../images/pom-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -399,12 +431,37 @@ body{
 }
 .heron{
     transition: all 0.2s;
-    padding: 10%;
+    background-size: cover;
+    padding: 0%;
     text-align: center;
-    block-size: 165px;
-    width: 120px;
+    block-size: 216px;
+    width: 160px;
     background-size: cover;
     background-image: url("../images/heron-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
+}
+.witch{
+    transition: all 0.2s;
+    background-size: cover;
+    padding: 0%;
+    text-align: center;
+    block-size: 216px;
+    width: 160px;
+    background-size: cover;
+    background-image: url("../images/witch-capa.png");
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2%;
+}
+.kaguya{
+    transition: all 0.2s;
+    background-size: cover;
+    padding: 0%;
+    text-align: center;
+    block-size: 216px;
+    width: 160px;
+    background-size: cover;
+    background-image: url("../images/kaguya-capa.png");
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
 }
@@ -415,7 +472,7 @@ body{
     margin-bottom: 0px;
     margin-left: -10px;
     margin-right: -8px;
-    margin-top: -10px;
+    margin-top: -20px;
     height: 60px;
     
 }
