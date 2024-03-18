@@ -492,7 +492,7 @@ a{
     margin: 0%;
     width: 750px;
 }
-.nausicaa-body{
+.pag-body{
     display: grid;
     grid-template-columns: 800px 1100px;
     margin: 0%;
@@ -558,10 +558,11 @@ h2{
     margin: 30px;
 }
 .assistir{
-    margin-left: 350px;
+    margin-left: 680px;
     display: grid;
-    grid-template-columns: 300px 300px;
-    margin-top: -90px;
+    grid-template-columns: 300px;
+    gap: 5rem;
+    margin-top: -280px;
     
 }
 h3{
@@ -581,4 +582,6 @@ h3{
     display: block;
     border-radius: 10px;
     margin: 30px;
+    margin-top: 130px;
+    
 }
