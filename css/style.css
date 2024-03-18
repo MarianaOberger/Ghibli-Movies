@@ -465,6 +465,12 @@ a{
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2%;
 }
+.espantalho{
+    display: flex;
+    position: absolute;
+    margin-top: 525px;
+    margin-left: 30px;
+}
 .footer{
     background-image: url("../images/grama-principal.png");
     background-repeat: repeat;
@@ -476,5 +482,103 @@ a{
     height: 60px;
     
 }
-
-
+.imagens-lateral{
+    display: grid;
+    padding: 0px;
+    margin: 0px;
+}
+.img-pag{
+    padding: 0%;
+    margin: 0%;
+    width: 750px;
+}
+.nausicaa-body{
+    display: grid;
+    grid-template-columns: 800px 1100px;
+    margin: 0%;
+    overflow:scroll;
+}
+h1{
+    color: rgb(29, 21, 0);
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 70px;
+    margin-left: 30px;
+}
+.primeira-coluna{
+    display: grid;
+    color: rgb(255, 237, 190);
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 550;
+    font-size: 20px;
+    padding-left: 50px;
+    
+}
+.segunda-coluna{
+    display: grid;
+    color: rgb(255, 237, 190);
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 550;
+    font-size: 20px;
+    padding-left: 50px;
+    
+}
+.dados-tecnicos{
+    display: grid;
+    grid-template-columns: 500px 500px;
+    gap: 0rem;
+    background-color:rgb(163, 139, 76);
+    margin: 30px;
+    padding: 20px;
+    border-radius: 10px;
+}
+h2{
+    color: rgb(29, 21, 0);
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 45px;
+    margin: 30px;
+}
+.texto{
+    color: rgb(29, 21, 0);
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20px;
+    margin: 30px;
+    text-align: justify;
+    line-height: 33px;
+}
+.trilha{
+    margin: 30px;
+}
+.trailer{
+    margin: 30px;
+}
+.assistir{
+    margin-left: 350px;
+    display: grid;
+    grid-template-columns: 300px 300px;
+    margin-top: -90px;
+    
+}
+h3{
+    color: rgb(255, 237, 190);
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-right: 30px;
+    margin-bottom: 0%;
+    text-align: center;
+    padding: 10px;
+}
+.retorno{
+    background-color:rgb(163, 139, 76);
+    display: block;
+    border-radius: 10px;
+    margin: 30px;
+}
