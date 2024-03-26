@@ -496,7 +496,7 @@ a{
     display: grid;
     grid-template-columns: 800px 1100px;
     margin: 0%;
-    overflow:scroll;
+    overflow:auto;
 }
 h1{
     color: rgb(29, 21, 0);
